@@ -1,17 +1,149 @@
-﻿<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://www.panorama360.asia/index.html</loc>
-	</url>
-	<url>
-		<loc>https://www.panorama360.asia/site_pansionata_issyk_kyl.html</loc>
-	</url>
-	<url>
-		<loc>https://www.panorama360.asia/yandex_maps_google_panoramas_bishkek.html</loc>
-	</url>
-	<url>
-		<loc>https://www.panorama360.asia/bishkek_website.html</loc>
-	</url>
-	<url>
-		<loc>https://www.panorama360.asia/price_panorama_bishkek.html</loc>
-	</url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.panorama360.asia/</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/contacts.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/site_pansionata_issyk_kyl.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/index.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRi_maps.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_maps_priroda.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_maps_dorogi.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/page23.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_maps_pomechenia.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_maps_gorod.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/yandex_maps_google_panoramas_bishkek.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/bishkek_website.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/price_panorama_bishkek.html</loc>
+	<lastmod>2023-05-31T17:48:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_lesnoi_holm.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_holm_pole.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_doroga_reka.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_les_polana.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_les_tyman.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/pystynia_voshod.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/zelenoe_pole.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/graznoe_pole.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/kamni_holm.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/park_kamni_fontan.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_most_gorod.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_doroga_les.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/noch_krysha.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/HDRI_map_torgoviy_chentr%20.html</loc>
+	<lastmod>2023-05-31T17:48:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/gorod_ploshad.html</loc>
+	<lastmod>2023-05-31T17:48:06+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://www.panorama360.asia/platz_gorod.html</loc>
+	<lastmod>2023-05-31T17:48:06+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
