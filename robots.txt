@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /project.mobirise
 Sitemap: https://http://www.panorama360.asia/sitemap.xml
-Host: https://www.panorama360.asia/
+Host: https://www.panorama360.asia
